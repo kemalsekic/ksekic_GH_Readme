@@ -2,15 +2,6 @@
 - 👀 I’m interested in automated software testing.
 - 🌱 I’m currently learning AI & machine learning with python.
 
-<h1>Contact Kemal</h1>
-<p>
-  <a href="https://www.linkedin.com/in/kemalsekic/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kemalsekic.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <h1>Things in my toolbelt</h1>
 <h2>Code stuff</h2>
@@ -41,6 +32,13 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+<h2>Database</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
 <h2>Terminal</h2>
 <p align="center">
     <img width="7%" src="https://cmder.net/img/logo.svg" />
@@ -54,7 +52,6 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="" />
 </p>
 
 <p align="center">
@@ -64,5 +61,12 @@
   </a>
   <a href="https://qstack.tech/">
     <img width="20%" src="https://d33wubrfki0l68.cloudfront.net/97a5be27c1a24be79f1d03d679e836d8602f3c0d/759c2/assets/media/3d_objects/scientists.png" />
+  </a>
+</p>
+
+<h1>Contact Kemal</h1>
+<p>
+  <a href="https://www.linkedin.com/in/kemalsekic/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
