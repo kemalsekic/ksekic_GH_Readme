@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning AI & machine learning with python.
 
 <p align="center">
-  <a href="https://kemalsekic.com/" target="_blank">
-    <img src="https://d33wubrfki0l68.cloudfront.net/c18f9209ec685e7548d6117f067669f005860007/eb5cb/assets/img/kemal3d400px.png" />
+  <a href="https://kemalsekic.com/" style="widght:10px; height:10px;">
+    <img src="https://d33wubrfki0l68.cloudfront.net/c18f9209ec685e7548d6117f067669f005860007/eb5cb/assets/img/kemal3d400px.png"/>
   </a>
   <a href="https://qstack.tech/">
     <img src="https://d33wubrfki0l68.cloudfront.net/97a5be27c1a24be79f1d03d679e836d8602f3c0d/759c2/assets/media/3d_objects/scientists.png" />
