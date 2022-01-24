@@ -1,7 +1,30 @@
-- 👋 Hi, I’m @kemalsekic
-- 👀 I’m interested in automated software testing.
-- 🌱 I’m currently learning AI & machine learning with python.
+```python
+  print "Welcome to Kemal Sekic's github"
+```
 
+<p align="center">
+    <img width="30%" src="https://github.com/kemalsekic/kemalsekic/blob/main/ksProfile.jpeg?raw=true" />
+    
+    
+    - 👋 Hi, I’m @kemalsekic</p>
+    - 👀 I’m interested in automated software testing.
+    - 🌱 I’m currently learning AI & machine learning with python.
+</p>
+
+<details>
+<summary>Click here to check out my websites!</summary>
+<br>
+    
+- #### https://kemalsekic.com/
+<a href="https://kemalsekic.com/">
+    <img width="15%" src="https://d33wubrfki0l68.cloudfront.net/c18f9209ec685e7548d6117f067669f005860007/eb5cb/assets/img/kemal3d400px.png"/>
+</a>
+    
+- #### https://qstack.tech/
+<a href="https://qstack.tech/">
+    <img width="20%" src="https://d33wubrfki0l68.cloudfront.net/97a5be27c1a24be79f1d03d679e836d8602f3c0d/759c2/assets/media/3d_objects/scientists.png" />
+</a>
+</details>
 
 <h1>Things in my toolbelt</h1>
 <h2>Code stuff</h2>
