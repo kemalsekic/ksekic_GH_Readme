@@ -7,7 +7,7 @@
     
     
     - 👋 Hi, I’m @kemalsekic</p>
-    - 👀 I’m interested in automated software testing.
+    - 👀 My passions include automated software testing and development.
     - 🌱 I’m currently learning AI & machine learning with python.
 </p>
 
