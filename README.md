@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI & machine learning with python.
 
 <p align="center">
-  <a href="https://kemalsekic.com/">
+  <a href="https://kemalsekic.com/" target="_blank">
     <img src="https://d33wubrfki0l68.cloudfront.net/c18f9209ec685e7548d6117f067669f005860007/eb5cb/assets/img/kemal3d400px.png" />
   </a>
   <a href="https://qstack.tech/">
